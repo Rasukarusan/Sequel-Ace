@@ -3302,7 +3302,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMPRESS_PNG_FILES = YES;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = NKQ4HJ66PX;
+				DEVELOPMENT_TEAM = B92X73W79N;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -3325,7 +3325,7 @@
 					"$(PROJECT_DIR)/Frameworks/SPMySQLFramework/MySQL\\ Client\\ Libraries/lib",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sequel-ace.sequel-ace";
+				PRODUCT_BUNDLE_IDENTIFIER = "tanaka.com.sequel-ace.sequel-ace";
 				PRODUCT_MODULE_NAME = Sequel_Ace;
 				PRODUCT_NAME = "Sequel Ace";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3421,10 +3421,11 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_ENTITLEMENTS = Entitlements/SequelAceTunnelAssistant.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = NKQ4HJ66PX;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/Frameworks";
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -3455,10 +3456,11 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_ENTITLEMENTS = Entitlements/SequelAceTunnelAssistant.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = NKQ4HJ66PX;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/Frameworks";
 				GCC_MODEL_TUNING = G5;
@@ -3489,9 +3491,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_ENTITLEMENTS = Entitlements/SequelAceTunnelAssistant.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = NKQ4HJ66PX;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/Frameworks";
 				GCC_MODEL_TUNING = G5;
@@ -3600,7 +3603,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMPRESS_PNG_FILES = YES;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = NKQ4HJ66PX;
+				DEVELOPMENT_TEAM = B92X73W79N;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -3623,7 +3626,7 @@
 					"$(PROJECT_DIR)/Frameworks/SPMySQLFramework/MySQL\\ Client\\ Libraries/lib",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sequel-ace.sequel-ace-beta";
+				PRODUCT_BUNDLE_IDENTIFIER = "tanaka.com.sequel-ace.sequel-ace-beta";
 				PRODUCT_MODULE_NAME = Sequel_Ace;
 				PRODUCT_NAME = "Sequel Ace Beta";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3676,9 +3679,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_ENTITLEMENTS = Entitlements/SequelAceTunnelAssistant.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = NKQ4HJ66PX;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/Frameworks";
 				GCC_MODEL_TUNING = G5;
@@ -3736,7 +3740,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMPRESS_PNG_FILES = YES;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = NKQ4HJ66PX;
+				DEVELOPMENT_TEAM = B92X73W79N;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -3760,7 +3764,7 @@
 					"$(PROJECT_DIR)/Frameworks/SPMySQLFramework/MySQL\\ Client\\ Libraries/lib",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sequel-ace.sequel-ace";
+				PRODUCT_BUNDLE_IDENTIFIER = "tanaka.com.sequel-ace.sequel-ace";
 				PRODUCT_MODULE_NAME = Sequel_Ace;
 				PRODUCT_NAME = "Sequel Ace";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3785,7 +3789,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMPRESS_PNG_FILES = YES;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = NKQ4HJ66PX;
+				DEVELOPMENT_TEAM = B92X73W79N;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -3808,7 +3812,7 @@
 					"$(PROJECT_DIR)/Frameworks/SPMySQLFramework/MySQL\\ Client\\ Libraries/lib",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sequel-ace.sequel-ace";
+				PRODUCT_BUNDLE_IDENTIFIER = "tanaka.com.sequel-ace.sequel-ace";
 				PRODUCT_MODULE_NAME = Sequel_Ace;
 				PRODUCT_NAME = "Sequel Ace";
 				PROVISIONING_PROFILE_SPECIFIER = "";
